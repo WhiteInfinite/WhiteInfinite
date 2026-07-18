@@ -36,20 +36,36 @@ Machine Learning • Data Science • Large Language Models • DevOps
 ## 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,pytorch,tensorflow,sklearn,mysql,opencv,docker,git,github,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,pytorch,tensorflow,sklearn,opencv,docker,git,github,linux,bash,mysql,vscode&perline=20" />
 </p>
+
+**Machine Learning • Deep Learning • Artificial Intelligence • Large Language Models (LLMs) • Natural Language Processing (NLP) • DevOps • Generative AI • Reinforcement Learning • Hugging Face • LangChain • OpenAI Whisper • Google Gemini • Data Science**
 
 ---
 ## 🚀 Featured Projects
 
-- ⚽ **AI-Based Football Match Event Recognition**
-  - Multi-modal AI pipeline using Whisper, CLIP, Gemini, and OCR.
+My pinned repositories showcase projects spanning multiple domains of Artificial Intelligence and Software Engineering, including:
 
-- 💬 **LLM Applications**
-  - Retrieval-Augmented Generation (RAG), prompt engineering, and NLP.
+- 🧬 **Generative AI for Drug Discovery**  
+  AI-powered molecular generation using **SELFIES**, **WGAN-GP**, and **Reinforcement Learning**.
 
-- 📊 **Data Science Projects**
-  - Machine learning models, predictive analytics, and visualization.
+- 🤖 **AI Tutor**  
+  A modular **LLM-powered** tutoring framework for building personalized learning assistants and educational chatbots.
+
+- 📰 **Fake News Detection**  
+  **BERT-based** NLP model fine-tuned to classify news articles as real or fake.
+
+- ⚽ **Multimodal Football Match Event Recognition**  
+  Intelligent event detection by combining **Whisper**, **CLIP**, **OCR**, and **Google Gemini** with confidence-based fusion.
+  
+- 🎤 **Audio Analysis Chatbot**  
+  AI-driven speech transcription, summarization, and report generation with PDF and email integration.
+
+- 🎓 **Student Mental Health Prediction**  
+  Machine learning models for predicting student mental health risk using academic and demographic features.
+
+⭐ Explore my **pinned repositories** below to learn more about each project and its implementation.
+
 ---
 
 ## 📈 GitHub Statistics
